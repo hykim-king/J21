@@ -7,7 +7,7 @@ package com.pcwk.ehr.ed05;
 public class Hello {
 
 	public static void main(String[] args) {
-		
+		System.out.println("clone");
 	}
 
 }
