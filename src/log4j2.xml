@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+    <Appenders>
+        <Console name="ConsoleAppender" target="SYSTEM_OUT">
+            <PatternLayout pattern="[%d{HH:mm:ss}] [%t] %-5level %logger{36} - %msg%n" />
+        </Console>
+        <File name="FileAppender" fileName="logs/app.log">
+            <PatternLayout>
+                <Pattern>%d %p %c [%t] %m%n</Pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+
+    <Loggers>
+        <Root level="info">
+            <AppenderRef ref="ConsoleAppender"/>
+            <AppenderRef ref="FileAppender"/>
+        </Root>
+
+        <!-- 특정 패키지 로그 레벨 설정 예시 -->
+        <Logger name="com.example" level="debug" additivity="false">
+            <AppenderRef ref="ConsoleAppender"/>
+        </Logger>
+    </Loggers>
+</Configuration>
