@@ -9,6 +9,9 @@ package com.pcwk.ehr.ed01;
  */
 public class HelloGit {
 
+	public static void git() {
+		
+	}
 	/**
 	 * @param args
 	 */
