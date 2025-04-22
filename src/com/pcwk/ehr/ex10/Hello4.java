@@ -9,7 +9,7 @@ public class Hello4 {
 
 
 	public static void main(String[] args) {
-		private int carNo;
+		
 		String id;
 
 		System.out.println();
