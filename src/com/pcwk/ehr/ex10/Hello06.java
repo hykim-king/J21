@@ -7,7 +7,7 @@ package com.pcwk.ehr.ex10;
 public class Hello06 {
 
 	public static void main(String[] args) {
-		System.out.println("Hello 06");
+		System.out.println("Hello 006");
 
 	}
 
