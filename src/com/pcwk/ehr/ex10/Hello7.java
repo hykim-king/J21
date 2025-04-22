@@ -8,7 +8,8 @@ package com.pcwk.ehr.ex10;
 public class Hello7 {
 
 	public static void main(String[] args) {
-		System.out.println("안뇽00mkj000");
+		System.out.println("오늘은 화요일");
+		System.out.println("날이 꾸리꾸리");
  
 	}
 
