@@ -4,11 +4,9 @@
  */
 package com.pcwk.ehr.ed01;
 
-
-
 public class MyApp {
 
-				System.out.println("┌───────────────────────┐");
-				System.out.println("│프로그램 종료99               │");
-				System.out.println("└───────────────────────┘");
+	public static void main(String[] args) {
+
+	}
 }
