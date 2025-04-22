@@ -8,10 +8,7 @@ package com.pcwk.ehr.ed01;
 
 public class MyApp {
 
-	public static void main(String[] args) {
-
-		System.out.println("┌───────────────────────┐");
-		System.out.println("│프로그램 종료               │");
-		System.out.println("└───────────────────────┘"); 
-	}
+				System.out.println("┌───────────────────────┐");
+				System.out.println("│프로그램 종료               │");
+				System.out.println("└───────────────────────┘");
 }
