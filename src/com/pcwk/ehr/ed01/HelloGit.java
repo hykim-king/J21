@@ -8,7 +8,7 @@ public class HelloGit {
 	// 1
 	public static void main(String[] args) {
 
-		// Hello
+		System.out.println("Hello~~");
 	}
 
 }
