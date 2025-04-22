@@ -7,7 +7,7 @@ package com.pcwk.ehr.ed01;
 public class HelloGit {
 	// 1
 	public static void main(String[] args) {
-		System.out.println("Hello~~");
+		System.out.println("Hello~~99");
 		System.out.println("88HelloGit~~99");
 		// Hello
 	}
