@@ -14,7 +14,7 @@ public class HelloAgain06 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("한번 더 해봤어요..");
+		System.out.println("Hello World. How beautiful World!");
 		  
 	}
 
