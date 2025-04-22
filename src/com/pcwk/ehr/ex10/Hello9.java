@@ -8,7 +8,7 @@ public class Hello9 {
 
 	public static void main(String[] args) {
 		System.out.println("9번째 Hello 입니다.");
-
+		System.out.println("9번째 Hello 입니다.22");
 	}
 
 }
