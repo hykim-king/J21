@@ -5,10 +5,10 @@
 package com.pcwk.ehr.ed01;
 
 public class HelloGit {
-    //1
+	// 1
 	public static void main(String[] args) {
 
-      
+		// Hello
 	}
 
 }
