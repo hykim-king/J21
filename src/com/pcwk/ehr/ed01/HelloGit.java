@@ -23,8 +23,9 @@ public class HelloGit {
 
 
 		System.out.println("Hello Git99");
-                System.out.println("--------------------------");
-                System.out.println("git local");
+        System.out.println("--------------------------");
+        System.out.println("git local");
+        System.out.println("git local88");
 
 	}
 
