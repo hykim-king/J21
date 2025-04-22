@@ -12,9 +12,7 @@ public class HelloGit {
 	public static void git() {
 		
 	}
-	/**
-	 * @param args
-	 */
+
 	public static void main(String[] args) {
 		System.out.println("Hello Git88");
 
@@ -25,7 +23,8 @@ public class HelloGit {
 
 
 		System.out.println("Hello Git99");
-		System.out.println("git local");
+                System.out.println("--------------------------");
+                System.out.println("git local");
 
 	}
 
